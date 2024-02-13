@@ -1,0 +1,15 @@
+html,
+body {
+  background-color: #23023a;
+}
+
+p {
+  color: #ffffff;
+}
+
+.form-floating {
+  margin-bottom: 12px;
+}
+.btn{
+  width: 100%;
+}
